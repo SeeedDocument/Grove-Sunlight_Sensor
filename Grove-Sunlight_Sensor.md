@@ -74,7 +74,7 @@ As shown below:
 
 **Download**
 
-Click here to download the library and decompress it to any libraries folders of Arduino,
+Click [here](https://github.com/SeeedDocument/Grove-Sunlight_Sensor/raw/master/res/Grove_Sunlight_Sensor-master.zip) to download the library and decompress it to any libraries folders of Arduino.
 
 You will notice there's "-master" in the end of the library name, just remove it.
 
